@@ -1,0 +1,9 @@
+package sudoku.problemDomain;
+
+import java.io.IOException;
+
+// INTERFACE - no implementation, declaration only
+public interface IStorage {
+    void updateGameData(SudokuGame game) throws IOException;
+    SudokuGame getGameData() throws IOException;
+}
