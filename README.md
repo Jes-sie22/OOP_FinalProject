@@ -1,5 +1,5 @@
 # OOP_FinalProject
-A Sudoku application made with lots of caffeine, plenty of tears, and the JavaFX library ( more details in documentation)
+A Sudoku application made with lots of caffeine, too much messing around, and the JavaFX library (more tech details in documentation)
 
 ## How to run this program
 1. Clone the project to your local device
