@@ -8,6 +8,12 @@ A Sudoku application made with lots of caffeine, too much messing around, and th
 4. Run the java.Main() class 
 5. enjoyy! :D
 
+## Video Demo
+https://youtu.be/l16nZVOVjgk 
+
+## Documentation
+https://docs.google.com/document/d/1QCpWryiZTahj08pOb8Emg1uiEQTyH5qLGAkZpKkCQlc/edit?usp=sharing 
+
 ## Details 
 * Jessica Sie 
 * 2502053653
