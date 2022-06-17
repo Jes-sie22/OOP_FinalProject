@@ -14,7 +14,7 @@ https://youtu.be/l16nZVOVjgk
 ## Documentation
 https://docs.google.com/document/d/1QCpWryiZTahj08pOb8Emg1uiEQTyH5qLGAkZpKkCQlc/edit?usp=sharing 
 
-## Details 
+## Student Details 
 * Jessica Sie 
 * 2502053653
-* Object Oriented Programming 
+* Object Oriented Programming L2BC
